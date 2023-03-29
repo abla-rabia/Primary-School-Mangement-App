@@ -1,0 +1,6 @@
+#ifndef DEC_FUN_H_INCLUDED
+#define DEC_FUN_H_INCLUDED
+
+
+
+#endif // DEC_FUN_H_INCLUDED

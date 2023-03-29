@@ -1,0 +1,6 @@
+#ifndef AFFICHAGE1_H_INCLUDED
+#define AFFICHAGE1_H_INCLUDED
+void Affichage();
+
+
+#endif // AFFICHAGE1_H_INCLUDED
