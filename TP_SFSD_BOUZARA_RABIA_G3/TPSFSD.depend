@@ -1,0 +1,230 @@
+# depslib dependency file v1.0
+1671878058 source:c:\users\hp\desktop\2cp\mine\sfsd\tp\tpsfsd\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dec_functions.h"
+	<time.h>
+	<windows.h>
+	"Menu_tovc.h"
+
+1671785337 c:\users\hp\desktop\2cp\mine\sfsd\tp\tpsfsd\declarations_fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1671871783 c:\users\hp\desktop\2cp\mine\sfsd\tp\tpsfsd\dec_functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1671877995 source:c:\users\hp\desktop\2cp\mine\sfsd\tp\tpsfsd\dec_functions.c
+	"dec_functions.h"
+	<stdio.h>
+	<stdbool.h>
+
+1671817518 c:\users\hp\desktop\2cp\mine\sfsd\tp\tpsfsd\menu_tovc.h
+
+1671817773 source:c:\users\hp\desktop\2cp\mine\sfsd\tp\tpsfsd\affichage1.c
+	"affichage1.h"
+	<windows.h>
+
+1671817751 c:\users\hp\desktop\2cp\mine\sfsd\tp\tpsfsd\affichage1.h
+
+1671817774 source:c:\users\hp\desktop\2cp\mine\sfsd\tp\tpsfsd\menu_tovc.c
+	"Menu_tovc.h"
+	<windows.h>
+
+1671878067 source:c:\users\mcs\documents\sfsd\tpsfsd\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dec_functions.h"
+	<time.h>
+	<windows.h>
+	"Menu_tovc.h"
+
+1671892420 c:\users\mcs\documents\sfsd\tpsfsd\dec_functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+
+1671817518 c:\users\mcs\documents\sfsd\tpsfsd\menu_tovc.h
+
+1671817773 source:c:\users\mcs\documents\sfsd\tpsfsd\affichage1.c
+	"affichage1.h"
+	<windows.h>
+
+1671817751 c:\users\mcs\documents\sfsd\tpsfsd\affichage1.h
+
+1671817774 source:c:\users\mcs\documents\sfsd\tpsfsd\menu_tovc.c
+	"Menu_tovc.h"
+	<windows.h>
+
+1671892420 source:c:\users\mcs\documents\sfsd\tpsfsd\dec_functions.c
+	"dec_functions.h"
+	<stdio.h>
+	<stdbool.h>
+
+1671907197 source:c:\users\hp\downloads\tpsfsd\tpsfsd\affichage1.c
+	"affichage1.h"
+	<windows.h>
+
+1671907197 c:\users\hp\downloads\tpsfsd\tpsfsd\affichage1.h
+
+1671923596 source:c:\users\hp\downloads\tpsfsd\tpsfsd\dec_functions.c
+	"dec_functions.h"
+	<stdio.h>
+	<stdbool.h>
+
+1671915905 c:\users\hp\downloads\tpsfsd\tpsfsd\dec_functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+
+1671907199 source:c:\users\hp\downloads\tpsfsd\tpsfsd\menu_tovc.c
+	"Menu_tovc.h"
+	<windows.h>
+
+1671907199 c:\users\hp\downloads\tpsfsd\tpsfsd\menu_tovc.h
+
+1671923459 source:c:\users\hp\downloads\tpsfsd\tpsfsd\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dec_functions.h"
+	<time.h>
+	<windows.h>
+	"Menu_tovc.h"
+
+1671907197 source:c:\users\mcs\downloads\^-^\affichage1.c
+	"affichage1.h"
+	<windows.h>
+
+1671907197 c:\users\mcs\downloads\^-^\affichage1.h
+
+1671961847 source:c:\users\mcs\downloads\^-^\dec_functions.c
+	"dec_functions.h"
+	<stdio.h>
+	<stdbool.h>
+
+1671961847 c:\users\mcs\downloads\^-^\dec_functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+
+1671961480 source:c:\users\mcs\downloads\^-^\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dec_functions.h"
+	<time.h>
+	<windows.h>
+	"Menu_tovc.h"
+
+1671907199 c:\users\mcs\downloads\^-^\menu_tovc.h
+
+1671907199 source:c:\users\mcs\downloads\^-^\menu_tovc.c
+	"Menu_tovc.h"
+	<windows.h>
+
+1671907197 source:c:\users\hp\downloads\^-^\affichage1.c
+	"affichage1.h"
+	<windows.h>
+
+1671907197 c:\users\hp\downloads\^-^\affichage1.h
+
+1671961847 source:c:\users\hp\downloads\^-^\dec_functions.c
+	"dec_functions.h"
+	<stdio.h>
+	<stdbool.h>
+
+1671961847 c:\users\hp\downloads\^-^\dec_functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+
+1671907199 source:c:\users\hp\downloads\^-^\menu_tovc.c
+	"Menu_tovc.h"
+	<windows.h>
+
+1671907199 c:\users\hp\downloads\^-^\menu_tovc.h
+
+1671998135 source:c:\users\hp\downloads\^-^\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dec_functions.h"
+	<time.h>
+	<windows.h>
+	"Menu_tovc.h"
+
+1671907197 source:c:\users\hp\downloads\tl\tp\affichage1.c
+	"affichage1.h"
+	<windows.h>
+
+1671907197 c:\users\hp\downloads\tl\tp\affichage1.h
+
+1671907199 source:c:\users\hp\downloads\tl\tp\menu_tovc.c
+	"Menu_tovc.h"
+	<windows.h>
+
+1671907199 c:\users\hp\downloads\tl\tp\menu_tovc.h
+
+1672538595 source:c:\users\hp\downloads\tl\tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dec_functions.h"
+	<time.h>
+	<windows.h>
+	"Menu_tovc.h"
+
+1672538595 c:\users\hp\downloads\tl\tp\dec_functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+
+1672537915 source:c:\users\hp\downloads\tl\tp\dec_functions.c
+	"dec_functions.h"
+	<stdio.h>
+	<stdbool.h>
+
+1671907197 source:c:\users\hp\downloads\tl\tp_sfsd_bouzara_rabia_g3\affichage1.c
+	"affichage1.h"
+	<windows.h>
+
+1671907197 c:\users\hp\downloads\tl\tp_sfsd_bouzara_rabia_g3\affichage1.h
+
+1672593132 source:c:\users\hp\downloads\tl\tp_sfsd_bouzara_rabia_g3\dec_functions.c
+	"dec_functions.h"
+	<stdio.h>
+	<stdbool.h>
+
+1672540772 c:\users\hp\downloads\tl\tp_sfsd_bouzara_rabia_g3\dec_functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+
+1671907199 source:c:\users\hp\downloads\tl\tp_sfsd_bouzara_rabia_g3\menu_tovc.c
+	"Menu_tovc.h"
+	<windows.h>
+
+1671907199 c:\users\hp\downloads\tl\tp_sfsd_bouzara_rabia_g3\menu_tovc.h
+
+1672593287 source:c:\users\hp\downloads\tl\tp_sfsd_bouzara_rabia_g3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dec_functions.h"
+	<time.h>
+	<windows.h>
+	"Menu_tovc.h"
+
